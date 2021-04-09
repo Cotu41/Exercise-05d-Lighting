@@ -21,5 +21,5 @@ None
 None
 
 ## Created by 
-Jason Francis
+Baerett Stone
 ```
